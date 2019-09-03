@@ -17,7 +17,7 @@ private double radio;
 private double area;
 /**
  * Costructor de la clase que inicializa la variable 
- * @param radio 
+ * @param radio Variable que guarda el radio 
  */
     public Esfera(double radio) {
         this.radio = radio;

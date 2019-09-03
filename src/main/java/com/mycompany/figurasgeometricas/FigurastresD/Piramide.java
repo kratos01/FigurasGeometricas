@@ -19,8 +19,8 @@ public class Piramide extends Figuratres {
     private double volumen;
 /**
  * Costructor de la clase que inicializa las variables de la piramide
- * @param lado
- * @param apotema 
+ * @param lado Variable que guarda el lado
+ * @param apotema variable que guarda el apotema 
  */
     public Piramide(double lado, double apotema) {
         this.lado = lado;
